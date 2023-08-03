@@ -10,7 +10,6 @@ This is a Node.js backend project that provides an API for managing contacts and
   - [Configuration](#configuration)
   - [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
